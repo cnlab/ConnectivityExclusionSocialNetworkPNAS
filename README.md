@@ -15,3 +15,13 @@ This repository includes:
 * [Extracted data matrices for the a-priori-networks](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/clean_ts)
 * [Extracted data matrices for the Power-264-node parcellation](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/clean_ts_264)
 * [Datasheet with the social network density metrics](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/datasheets/pID_social_networks.csv)
+
+
+
+#### We thank the contributors of the following packages
+Project Jupyter
+Nilearn
+Seaborn
+Numpy
+Matplotlib
+Pandas
