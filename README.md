@@ -18,7 +18,7 @@ This repository includes:
 
 ***
 
-#### We thank the contributors of the following packages
+#### The following packages are used and we thank their creators
 * [Project Jupyter](https://github.com/jupyter)
 * [nilearn](https://github.com/nilearn)
 * [seaborn](http://seaborn.pydata.org/)
