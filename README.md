@@ -20,9 +20,15 @@ This repository includes:
 
 #### We thank the contributors of the following packages
 -[Project Jupyter](https://github.com/jupyter)
+
 -[nilearn](https://github.com/nilearn)
+
 -[seaborn](http://seaborn.pydata.org/)
+
 -[numpy](http://www.numpy.org/)
+
 -[scipy](http://www.scipy.org/)
+
 -[matplotlib](http://matplotlib.org/)
+
 -[pandas](http://pandas.pydata.org/)
