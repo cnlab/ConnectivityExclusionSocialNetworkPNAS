@@ -6,8 +6,8 @@ The paper can be accessed here: [Link]
 
 ***
 
-This repository includes:
-#### Analayis Code used to conduct main analyses presented in the paper:
+#### This repository includes:
+#### Analysis Code used to conduct main analyses presented in the paper:
 * The [notebook to reproduce the analysis of the main effect of exclusion](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/03_main_analysis/Schmaelzle_ConnectivitySociaExclusion.ipynb)
 * The [notebook to reproduce the analysis of the association between social network density and brain connectivity](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/03_main_analysis/Schmaelzle_ConnectivityDensity.ipynb)
 
