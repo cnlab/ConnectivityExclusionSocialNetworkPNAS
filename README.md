@@ -19,9 +19,9 @@ This repository includes:
 
 
 #### We thank the contributors of the following packages
-Project Jupyter
-Nilearn
-Seaborn
-Numpy
-Matplotlib
-Pandas
+Project Jupyter,
+Nilearn,
+Seaborn,
+Numpy,
+Matplotlib,
+Pandas,
