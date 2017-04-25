@@ -26,3 +26,4 @@ The paper can be accessed here: [Link]
 * [scipy](http://www.scipy.org/)
 * [matplotlib](http://matplotlib.org/)
 * [pandas](http://pandas.pydata.org/)
+(not essential: bct !pip install bctpy & mne - if you need to install on the fly: enter !pip install bctpy or so in a code cell)
