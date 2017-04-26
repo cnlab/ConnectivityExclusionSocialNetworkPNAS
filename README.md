@@ -3,13 +3,14 @@ This repository includes data and code for
 *Schmälzle, R., Brook O’Donnell, M., Garcia, J.O., Cascio, C.N., Bayer, J., Bassett, D.S., Vettel, J. & Falk, E.B. (2017). Brain connectivity dynamics during social interaction reflect social network structure. Proceedings of the National Academy of Sciences.* [![DOI](http://www.ralfschmaelzle.net/wp-content/plugins/papercite/img/pdf.png)](https://doi.org/10.1073/pnas.1511477112) 
 [External Link]
 
+<img width=300px src=data/explainer_fig.png>
 
 ***
 
 #### Analysis Code
 * The [notebook to reproduce the analysis of the main effect of exclusion](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/02_main_analysis/Schmaelzle_ConnectivitySociaExclusion.ipynb)
 * The [notebook to reproduce the analysis of the association between social network density and brain connectivity](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/02_main_analysis/Schmaelzle_ConnectivityDensity.ipynb)
-* In addition, we provide an [example notebook](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/01_meta_analysis/Neurosynth.ipynb) for running the meta-analysis in [Neurosynth](http://neurosynth.org/):
+* In addition, we provide an [example notebook](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/01_meta_analysis/Neurosynth.ipynb) for running the meta-analysis in Neurosynth
 
 #### Data
 * [Extracted data matrices for the a-priori-networks](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/connectivity_matrices)
