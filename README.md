@@ -16,7 +16,6 @@ The paper can be accessed here: [Link]
 * [Extracted data matrices for the Power-264-node parcellation](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/clean_ts_264)
 * [Datasheet with the social network density metrics](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/datasheets/pID_social_networks.csv)
 
-***
 
 #### The following packages are used and we thank their creators
 * [Project Jupyter](https://github.com/jupyter)
@@ -27,3 +26,6 @@ The paper can be accessed here: [Link]
 * [matplotlib](http://matplotlib.org/)
 * [pandas](http://pandas.pydata.org/)
 (not essential: bct !pip install bctpy & mne - if you need to install on the fly: enter !pip install bctpy or so in a code cell)
+
+######
+* 2017 | Ralf Schmaelzle | Matthew Brook O'Donnel 
