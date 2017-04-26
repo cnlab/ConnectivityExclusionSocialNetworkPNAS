@@ -1,8 +1,8 @@
 # ConnectivityExclusionSocialNetworkPNAS
 
-| This repository includes ddata and code for  |   |
+| This repository includes ddata and code for  | asd  |
 
-
+test
 
 | ------------- |:-------------:| -----:|
 | *Schmälzle, R., Brook O’Donnell, M., Garcia, J.O., Cascio, C.N., Bayer, J., Bassett, D.S., Vettel, J. & Falk, E.B. (2017). Brain connectivity dynamics during social interaction reflect social network structure. Proceedings of the National Academy of Sciences.* [![DOI](http://www.ralfschmaelzle.net/wp-content/plugins/papercite/img/pdf.png)](https://doi.org/10.1073/pnas.1511477112) 
