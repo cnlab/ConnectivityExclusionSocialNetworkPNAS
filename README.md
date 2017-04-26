@@ -35,4 +35,4 @@ The following packages are used and we feel very indebted to their creators:
 Note: if you run into errors indicating you miss a package, either enter "pip install package" in a terminal or - if in the notebook - insert a cell and write "!pip install package"
 
 ***
-2017 | Ralf Schmaelzle | Matthew Brook O'Donnel 
+2017 | Ralf Schmaelzle | Matthew Brook O'Donnell 
