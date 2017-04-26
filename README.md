@@ -1,6 +1,6 @@
 # ConnectivityExclusionSocialNetworkPNAS
 
-| This repository includes ddata and code for |   asdf   | asd  |
+| This repository includes data and code for |       |      |
 | ------------- |:-------------:| -----:|
 
 
