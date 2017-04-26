@@ -7,7 +7,7 @@ Data and analysis code for *Schmälzle, R., Brook O’Donnell, M., Garcia, J.O.
 
 <img align="right" width=250px src=data/explainer_fig.png> 
 
-### Analysis Code
+### Code
 * The [notebook to reproduce the analysis of the main effect of exclusion](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/02_main_analysis/Schmaelzle_ConnectivitySociaExclusion.ipynb)
 * The [notebook to reproduce the analysis of the association between social network density and brain connectivity](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/02_main_analysis/Schmaelzle_ConnectivityDensity.ipynb)
 * The [ notebook](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/01_meta_analysis/Neurosynth.ipynb) for running the meta-analysis in Neurosynth
