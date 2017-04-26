@@ -1,6 +1,9 @@
 # ConnectivityExclusionSocialNetworkPNAS
 
-| This repository includes d       | Are           | <img width=300px src=data/explainer_fig.png>  |
+| This repository includes d        | <img width=300px src=data/explainer_fig.png>  |
+
+
+
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
