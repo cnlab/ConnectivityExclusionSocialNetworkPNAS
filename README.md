@@ -7,21 +7,22 @@ Schmälzle, R., Brook O’Donnell, M., Garcia, J.O., Cascio, C.N., Bayer, J., B
 ***
 
 #### This repository includes:
-#### Analysis Code:
+#### Analysis Code
 * The [notebook to reproduce the analysis of the main effect of exclusion](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/02_main_analysis/Schmaelzle_ConnectivitySociaExclusion.ipynb)
 * The [notebook to reproduce the analysis of the association between social network density and brain connectivity](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/02_main_analysis/Schmaelzle_ConnectivityDensity.ipynb)
 
-#### Data:
+#### Data
 * [Extracted data matrices for the a-priori-networks](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/cconnectivity_matrices)
 * [Extracted data matrices for the Power-264-node parcellation](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/cconnectivity_matrices_264)
 * [Datasheet with the social network density metrics](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/datasheets/pID_social_networks.csv)
 
 
-#### Dependencies:
+#### Dependencies
 * Python
+
 [Anaconda](http://continuum.io/downloads) should provide you with most of what you need.
 
-The following packages are used and we thank their creators
+The following packages are used and we feel very indebted to their creators:
 * [Project Jupyter](https://github.com/jupyter) 
 * [nilearn](https://github.com/nilearn) e.g. `pip install nilearn`
 * [seaborn](http://seaborn.pydata.org/)
@@ -32,7 +33,7 @@ The following packages are used and we thank their creators
 * [bctpy](https://github.com/aestrivex/bctpy)
 * [mne](https://github.com/mne-tools)
 
-(note: if you run into errors indicating you miss a package, either enter "pip install package" in a terminal or - if in the notebook - insert a cell and write "!pip install package"
+Note: if you run into errors indicating you miss a package, either enter "pip install package" in a terminal or - if in the notebook - insert a cell and write "!pip install package"
 
-######
-* 2017 | Ralf Schmaelzle | Matthew Brook O'Donnel 
+***
+2017 | Ralf Schmaelzle | Matthew Brook O'Donnel 
