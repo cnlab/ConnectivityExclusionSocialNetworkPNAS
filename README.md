@@ -4,7 +4,7 @@ Data and analysis code for *Schmälzle, R., Brook O’Donnell, M., Garcia, J.O.
 
 
 ***
-<img align="right" width=300px src=data/explainer_fig.png> 
+<img align="right" width=250px src=data/explainer_fig.png> 
 
 #### Analysis Code
 * The [notebook to reproduce the analysis of the main effect of exclusion](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/02_main_analysis/Schmaelzle_ConnectivitySociaExclusion.ipynb)
