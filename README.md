@@ -44,4 +44,4 @@ Note: if you run into errors indicating you miss a package, either enter "pip in
 
 
 ***
-2017 | Ralf Schmaelzle | Matthew Brook O'Donnell 
+2017 | Ralf Schmaelzle | Matthew O'Donnell 
