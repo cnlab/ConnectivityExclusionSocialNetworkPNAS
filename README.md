@@ -1,6 +1,6 @@
 # Analysis for Schmälzle, O’Donnell, Garcia, Cascio, Bayer, Bassett, Vettel, & Falk (2017)
 
-Data and analysis code for *Schmälzle, R., O'Donnell, M.B., Garcia, J.O., Cascio, C.N., Bayer, J., Bassett, D.S., Vettel, J. & Falk, E.B. (2017). Brain connectivity dynamics during social interaction reflect social network structure. Proceedings of the National Academy of Sciences.* [![DOI](http://www.ralfschmaelzle.net/wp-content/plugins/papercite/img/pdf.png)](https://doi:10.1073/pnas.1616130114) [External Link]
+Data and analysis code for *Schmälzle, R., O'Donnell, M.B., Garcia, J.O., Cascio, C.N., Bayer, J., Bassett, D.S., Vettel, J. & Falk, E.B. (2017). Brain connectivity dynamics during social interaction reflect social network structure. Proceedings of the National Academy of Sciences.* [![DOI](http://www.ralfschmaelzle.net/wp-content/plugins/papercite/img/pdf.png)](http://www.pnas.org/content/early/2017/04/27/1616130114.abstract) [External Link]
 
 
 ***
